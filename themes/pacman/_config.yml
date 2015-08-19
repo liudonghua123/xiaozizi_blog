@@ -36,6 +36,8 @@ author_img_data: ''
 ## paste the dataURI in ONE LINE and included it by ''.
 author_img: img/author.jpg ## size:220px*220px.
 ## if the picture's format is `.png` or `.jpg`  instead of dataURI,you should set the `dataURI` value to false.
+## set the root
+root: /
 
 #### Font
 ShowCustomFont: true  
